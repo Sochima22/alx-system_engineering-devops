@@ -1,0 +1,2 @@
+#!/bun/bash
+find . -empty -printf "%f\n"	
